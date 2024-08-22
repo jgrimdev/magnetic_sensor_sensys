@@ -1,0 +1,16 @@
+/history/
+/build/
+/can/
+/candevices/
+/dist/
+/history/
+/venv/
+/venv2/
+/venv3/
+/ca_setup2_ixon_node.can
+/canusb32.dll
+/default.csv.csv
+/ftd2xx.dll
+/test.py
+/test2.py
+/Zeeman.py
